@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wSI7ZmvxxQNLfwGm6gZkQVzW31pJ1z0jIw12aQYBXsg=",
+  "Source": "TireServiceApp",
+  "BasePath": "_content/TireServiceApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
