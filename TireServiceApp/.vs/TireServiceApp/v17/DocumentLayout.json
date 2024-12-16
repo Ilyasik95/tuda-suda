@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C36CA41-1F93-43E1-82A5-083FBD44F863}|Tests\\Tests.csproj|c:\\users\\admin\\source\\repos\\tireserviceapp\\tests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C36CA41-1F93-43E1-82A5-083FBD44F863}|Tests\\Tests.csproj|solutionrelative:tests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51393A7-8C84-41C3-B4B6-B4D3831CF915}|TireServiceApp\\TireServiceApp.csproj|c:\\users\\admin\\source\\repos\\tireserviceapp\\tireserviceapp\\repositories\\mockuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51393A7-8C84-41C3-B4B6-B4D3831CF915}|TireServiceApp\\TireServiceApp.csproj|solutionrelative:tireserviceapp\\repositories\\mockuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51393A7-8C84-41C3-B4B6-B4D3831CF915}|TireServiceApp\\TireServiceApp.csproj|c:\\users\\admin\\source\\repos\\tireserviceapp\\tireserviceapp\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51393A7-8C84-41C3-B4B6-B4D3831CF915}|TireServiceApp\\TireServiceApp.csproj|solutionrelative:tireserviceapp\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51393A7-8C84-41C3-B4B6-B4D3831CF915}|TireServiceApp\\TireServiceApp.csproj|c:\\users\\admin\\source\\repos\\tireserviceapp\\tireserviceapp\\services\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51393A7-8C84-41C3-B4B6-B4D3831CF915}|TireServiceApp\\TireServiceApp.csproj|solutionrelative:tireserviceapp\\services\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51393A7-8C84-41C3-B4B6-B4D3831CF915}|TireServiceApp\\TireServiceApp.csproj|c:\\users\\admin\\source\\repos\\tireserviceapp\\tireserviceapp\\services\\mockapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51393A7-8C84-41C3-B4B6-B4D3831CF915}|TireServiceApp\\TireServiceApp.csproj|solutionrelative:tireserviceapp\\services\\mockapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51393A7-8C84-41C3-B4B6-B4D3831CF915}|TireServiceApp\\TireServiceApp.csproj|c:\\users\\admin\\source\\repos\\tireserviceapp\\tireserviceapp\\services\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51393A7-8C84-41C3-B4B6-B4D3831CF915}|TireServiceApp\\TireServiceApp.csproj|solutionrelative:tireserviceapp\\services\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51393A7-8C84-41C3-B4B6-B4D3831CF915}|TireServiceApp\\TireServiceApp.csproj|c:\\users\\admin\\source\\repos\\tireserviceapp\\tireserviceapp\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51393A7-8C84-41C3-B4B6-B4D3831CF915}|TireServiceApp\\TireServiceApp.csproj|solutionrelative:tireserviceapp\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51393A7-8C84-41C3-B4B6-B4D3831CF915}|TireServiceApp\\TireServiceApp.csproj|c:\\users\\admin\\source\\repos\\tireserviceapp\\tireserviceapp\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51393A7-8C84-41C3-B4B6-B4D3831CF915}|TireServiceApp\\TireServiceApp.csproj|solutionrelative:tireserviceapp\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51393A7-8C84-41C3-B4B6-B4D3831CF915}|TireServiceApp\\TireServiceApp.csproj|c:\\users\\admin\\source\\repos\\tireserviceapp\\tireserviceapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51393A7-8C84-41C3-B4B6-B4D3831CF915}|TireServiceApp\\TireServiceApp.csproj|solutionrelative:tireserviceapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51393A7-8C84-41C3-B4B6-B4D3831CF915}|TireServiceApp\\TireServiceApp.csproj|c:\\users\\admin\\source\\repos\\tireserviceapp\\tireserviceapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51393A7-8C84-41C3-B4B6-B4D3831CF915}|TireServiceApp\\TireServiceApp.csproj|solutionrelative:tireserviceapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51393A7-8C84-41C3-B4B6-B4D3831CF915}|TireServiceApp\\TireServiceApp.csproj|c:\\users\\admin\\source\\repos\\tireserviceapp\\tireserviceapp\\tireserviceapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B51393A7-8C84-41C3-B4B6-B4D3831CF915}|TireServiceApp\\TireServiceApp.csproj|solutionrelative:tireserviceapp\\tireserviceapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51393A7-8C84-41C3-B4B6-B4D3831CF915}|TireServiceApp\\TireServiceApp.csproj|c:\\users\\admin\\source\\repos\\tireserviceapp\\tireserviceapp\\tireserviceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B51393A7-8C84-41C3-B4B6-B4D3831CF915}|TireServiceApp\\TireServiceApp.csproj|solutionrelative:tireserviceapp\\tireserviceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51393A7-8C84-41C3-B4B6-B4D3831CF915}|TireServiceApp\\TireServiceApp.csproj|c:\\users\\admin\\source\\repos\\tireserviceapp\\tireserviceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51393A7-8C84-41C3-B4B6-B4D3831CF915}|TireServiceApp\\TireServiceApp.csproj|solutionrelative:tireserviceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C36CA41-1F93-43E1-82A5-083FBD44F863}|Tests\\Tests.csproj|c:\\users\\admin\\source\\repos\\tireserviceapp\\tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C36CA41-1F93-43E1-82A5-083FBD44F863}|Tests\\Tests.csproj|solutionrelative:tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51393A7-8C84-41C3-B4B6-B4D3831CF915}|TireServiceApp\\TireServiceApp.csproj|c:\\users\\admin\\source\\repos\\tireserviceapp\\tireserviceapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51393A7-8C84-41C3-B4B6-B4D3831CF915}|TireServiceApp\\TireServiceApp.csproj|solutionrelative:tireserviceapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MockUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\TireServiceApp\\Repositories\\MockUserRepository.cs",
+              "RelativeDocumentMoniker": "TireServiceApp\\Repositories\\MockUserRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\TireServiceApp\\Repositories\\MockUserRepository.cs*",
+              "RelativeToolTip": "TireServiceApp\\Repositories\\MockUserRepository.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:25:10.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\TireServiceApp\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "TireServiceApp\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\TireServiceApp\\Repositories\\IUserRepository.cs*",
+              "RelativeToolTip": "TireServiceApp\\Repositories\\IUserRepository.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:24:49.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\TireServiceApp\\Services\\RegistrationService.cs",
+              "RelativeDocumentMoniker": "TireServiceApp\\Services\\RegistrationService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\TireServiceApp\\Services\\RegistrationService.cs*",
+              "RelativeToolTip": "TireServiceApp\\Services\\RegistrationService.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:22:47.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\TireServiceApp\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "TireServiceApp\\Models\\Application.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\TireServiceApp\\Models\\Application.cs*",
+              "RelativeToolTip": "TireServiceApp\\Models\\Application.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:22:00.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\TireServiceApp\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "TireServiceApp\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\TireServiceApp\\Models\\Client.cs*",
+              "RelativeToolTip": "TireServiceApp\\Models\\Client.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:21:12.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\TireServiceApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TireServiceApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\TireServiceApp\\Models\\User.cs*",
+              "RelativeToolTip": "TireServiceApp\\Models\\User.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:20:29.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TireServiceApp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\TireServiceApp\\TireServiceApp.csproj",
+              "RelativeDocumentMoniker": "TireServiceApp\\TireServiceApp.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\TireServiceApp\\TireServiceApp.csproj*",
+              "RelativeToolTip": "TireServiceApp\\TireServiceApp.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-06T14:20:04.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\TireServiceApp\\Services\\ApplicationService.cs",
+              "RelativeDocumentMoniker": "TireServiceApp\\Services\\ApplicationService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\TireServiceApp\\Services\\ApplicationService.cs",
+              "RelativeToolTip": "TireServiceApp\\Services\\ApplicationService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:09:28.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\Tests\\Class1.cs",
+              "RelativeDocumentMoniker": "Tests\\Class1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\Tests\\Class1.cs*",
+              "RelativeToolTip": "Tests\\Class1.cs*",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:20:32.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\TireServiceApp\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TireServiceApp\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\TireServiceApp\\WeatherForecast.cs",
+              "RelativeToolTip": "TireServiceApp\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:00:34.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MockApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\TireServiceApp\\Services\\MockApplicationRepository.cs",
+              "RelativeDocumentMoniker": "TireServiceApp\\Services\\MockApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\TireServiceApp\\Services\\MockApplicationRepository.cs",
+              "RelativeToolTip": "TireServiceApp\\Services\\MockApplicationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:04:30.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\TireServiceApp\\Services\\IApplicationRepository.cs",
+              "RelativeDocumentMoniker": "TireServiceApp\\Services\\IApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\TireServiceApp\\Services\\IApplicationRepository.cs",
+              "RelativeToolTip": "TireServiceApp\\Services\\IApplicationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:04:02.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Tests",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\Tests\\Tests.csproj",
+              "RelativeDocumentMoniker": "Tests\\Tests.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\Tests\\Tests.csproj",
+              "RelativeToolTip": "Tests\\Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-06T13:22:43.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\TireServiceApp\\Program.cs",
+              "RelativeDocumentMoniker": "TireServiceApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\TireServiceApp\\Program.cs",
+              "RelativeToolTip": "TireServiceApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:05:34.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TireServiceApp.http",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\TireServiceApp\\TireServiceApp.http",
+              "RelativeDocumentMoniker": "TireServiceApp\\TireServiceApp.http",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TireServiceApp\\TireServiceApp\\TireServiceApp.http",
+              "RelativeToolTip": "TireServiceApp\\TireServiceApp.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-06T13:05:27.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
